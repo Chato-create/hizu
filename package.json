@@ -1,0 +1,27 @@
+{  "name": "crista-lenz",
+  "version": "1.0.0",
+  "description": "chinsa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chato",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chato-create/crista-lenz.git"
+  },
+  "keywords": [
+    "discord.js",
+    "node",
+    "git"
+  ],
+  "bugs": {
+    "url": "https://github.com/Chato-create/crista-lenz/issues"
+  },
+  "homepage": "https://github.com/Chato-create/crista-lenz#readme"
+}
